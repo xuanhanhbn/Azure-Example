@@ -1,12 +1,10 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{9059C022-567B-47D4-BE8E-A7F9F310EE49}|https">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AZURE_EXAMPLE">
-            <Node name="AZURE_EXAMPLE" selected="True" />
-          </Node>
+          <Node name="AZURE_EXAMPLE" expanded="True" selected="True" />
         </State>
       </Pad>
     </Pads>
@@ -16,4 +14,5 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.AZURE__EXAMPLE PreferredExecutionTarget="/Applications/Google Chrome.app" />
 </Properties>

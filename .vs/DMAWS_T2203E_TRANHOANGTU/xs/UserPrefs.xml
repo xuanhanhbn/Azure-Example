@@ -1,17 +1,18 @@
-﻿<Properties>
+﻿<Properties StartupConfiguration="{44DF1BF8-D3D1-4B05-AF24-91CF4DF54E71}|http">
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="AZURE_EXAMPLE">
-            <Node name="AZURE_EXAMPLE" selected="True" />
+          <Node name="DMAWS_T2203E_TRANHOANGTU" expanded="True">
+            <Node name="DMAWS_T2203E_TRANHOANGTU" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DMAWS__T2203E__TRANHOANGTU PreferredExecutionTarget="/Applications/Google Chrome.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

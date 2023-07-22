@@ -1,7 +1,7 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZURE_EXAMPLE", "DMAWS_T2203E_TRANHOANGTU\AZURE_EXAMPLE.csproj", "{44DF1BF8-D3D1-4B05-AF24-91CF4DF54E71}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AZURE_EXAMPLE", "AZURE_EXAMPLE\AZURE_EXAMPLE.csproj", "{44DF1BF8-D3D1-4B05-AF24-91CF4DF54E71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
